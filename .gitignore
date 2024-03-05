@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BankAccount/BankAccount.Core/obj
+/BankAccount/BankAccount.Core.Test/bin/Debug/net8.0
+/BankAccount/BankAccount.Core.Test/obj
+/BankAccount/BankAccount.Core.Test/BankAccount.Core.Test.csproj
+/BankAccount/BankAccount.Infra/obj
+/BankAccount/.vs
+/BankAccount/BankAccount.sln
